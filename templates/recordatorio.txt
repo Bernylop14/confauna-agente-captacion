@@ -1,0 +1,12 @@
+ASUNTO: Seguimiento: control de aves - {empresa}
+
+{saludo}
+
+Le escribí hace unos días sobre el control de palomas y gaviotas. No quiero ser insistente, así que este será el último mensaje: si en {nombre} surge algún problema con palomas, gaviotas u otras aves, puede contactarme respondiendo a este correo o en el {telefono} (también por WhatsApp).
+
+Un saludo,
+
+{firma}
+
+--
+Si no desea recibir más mensajes de {empresa}, responda "BAJA" a este correo y no volveré a escribirle.

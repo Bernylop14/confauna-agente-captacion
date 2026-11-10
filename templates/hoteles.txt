@@ -1,0 +1,16 @@
+ASUNTO: Control de palomas y gaviotas en {nombre}
+
+{saludo}
+
+Me llamo {remitente} y soy halconero profesional. He trabajado en el control de aves en los aeropuertos de Málaga y Vitoria-Gasteiz, y con {empresa} aplico ese mismo enfoque en hoteles y alojamientos de Málaga y la Costa del Sol.
+
+En un hotel, las palomas y las gaviotas en terrazas, azoteas, zonas de piscina o comedores exteriores afectan a la imagen del establecimiento y a la experiencia del huésped, además de generar costes de limpieza y reparaciones. Si en {nombre} es un problema recurrente, puedo hacer una evaluación profesional de las zonas afectadas y prepararle un presupuesto cerrado.
+
+Le adjunto un dossier de una página con lo que hago. Puede responder a este correo, escribirme por WhatsApp o llamarme al {telefono}.
+
+Un saludo,
+
+{firma}
+
+--
+Le escribo porque sus datos de contacto figuran públicamente en {origen}. Si no desea recibir más mensajes de {empresa}, responda "BAJA" a este correo y no volveré a escribirle.

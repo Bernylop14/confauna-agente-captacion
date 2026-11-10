@@ -1,0 +1,18 @@
+ASUNTO: Control de aves en sus instalaciones - {nombre}
+
+{saludo}
+
+Me llamo {remitente} y soy halconero profesional. He trabajado en el control de aves en los aeropuertos de Málaga y Vitoria-Gasteiz, y con {empresa} me dedico al control y la prevención de aves en empresas e instalaciones de la provincia de Málaga.
+
+En plantas que manipulan o almacenan producto, como almazaras, almacenes de grano o frutos secos, centrales de fruta o fábricas de piensos, las palomas y otras aves suelen concentrarse en silos, muelles de carga, patios y acopios. Sus excrementos y plumas son una vía conocida de contaminación del producto, y su control forma parte del plan de plagas que revisan las auditorías de seguridad alimentaria.
+
+Si en las instalaciones de {nombre} tienen presencia habitual de aves, les propongo una visita de evaluación sin coste ni compromiso para identificar especies, puntos de posada y accesos, y presentarles después un plan adaptado a su actividad.
+
+Les adjunto un dossier de una página con lo que hago. Pueden responder a este correo, escribirme por WhatsApp o llamarme al {telefono}.
+
+Un saludo,
+
+{firma}
+
+--
+Les escribo porque sus datos de contacto figuran públicamente en {origen}. Si no desean recibir más mensajes de {empresa}, respondan "BAJA" a este correo y no volveré a escribirles.
