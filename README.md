@@ -1,5 +1,7 @@
 # Agente de captación por correo · caso real de QA
 
+![Pruebas](https://github.com/Bernylop14/confauna-agente-captacion1/actions/workflows/tests.yml/badge.svg)
+
 Agente en Python que capta clientes por correo electrónico para **ConFauna**, mi empresa de control de aves en Málaga. Está **en producción desde el 29/10/2026**: envía cada día laborable, hace seguimiento y lee el buzón para detectar respuestas, bajas y rebotes.
 
 Lo desarrollé con asistencia de IA (Claude). Mi papel fue el de **producto y QA**: definir los requisitos, diseñar los frenos de seguridad, probarlo, validarlo en producción y detectar y gestionar los defectos que aparecieron con datos reales.
